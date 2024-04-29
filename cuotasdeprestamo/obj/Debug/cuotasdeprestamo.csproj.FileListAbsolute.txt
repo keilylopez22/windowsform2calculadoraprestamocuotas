@@ -1,0 +1,10 @@
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\bin\Debug\cuotasdeprestamo.exe.config
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\bin\Debug\cuotasdeprestamo.exe
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\bin\Debug\cuotasdeprestamo.pdb
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\obj\Debug\cuotasdeprestamo.csproj.AssemblyReference.cache
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\obj\Debug\cuotasdeprestamo.Form1.resources
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\obj\Debug\cuotasdeprestamo.Properties.Resources.resources
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\obj\Debug\cuotasdeprestamo.csproj.GenerateResource.cache
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\obj\Debug\cuotasdeprestamo.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\obj\Debug\cuotasdeprestamo.exe
+C:\Users\keily\OneDrive\Escritorio\windows form 2\cuotasdeprestamo\obj\Debug\cuotasdeprestamo.pdb
